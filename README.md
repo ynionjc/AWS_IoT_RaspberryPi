@@ -2,7 +2,7 @@
 
 ## IoT Summer course
 
-Mini project done for elective summer course.
+Exercise for elective summer course.
 
 Learning objective:
 - AWS IoT MQTT
@@ -25,3 +25,7 @@ Pi <------> AWS IoT <-------> iOS App\
 &nbsp;&nbsp;&nbsp;&nbsp;<--> Camera\
 &nbsp;&nbsp;&nbsp;&nbsp;<--> LED\
 &nbsp;&nbsp;&nbsp;&nbsp;<--> Button
+
+![System Diagram](description.png)
+
+![Runtime Image](runtime.png)
